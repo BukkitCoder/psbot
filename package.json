@@ -1,0 +1,19 @@
+{
+  "name": "ps_bot",
+  "version": "1.0.0",
+  "description": "На данный момент чат-боты доступны только в игре Побег собачек.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BukkitCoder/psbot.git"
+  },
+  "author": "Dimushka12729",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/BukkitCoder/psbot/issues"
+  },
+  "homepage": "https://github.com/BukkitCoder/psbot#readme"
+}
